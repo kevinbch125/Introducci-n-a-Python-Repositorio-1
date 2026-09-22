@@ -25,3 +25,4 @@ precio_total = precio_sin_impuesto + monto_impuesto
 print("Precio total:", precio_total)
 print("Monto de utilidad:", monto_utilidad)
 print("Monto de impuesto:", monto_impuesto)
+
